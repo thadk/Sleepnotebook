@@ -9,6 +9,8 @@ easy to analyse them using IPython Notebook tools.
 
 * http://eric-blue.com/projects/up-api/
 
+**Sleepcycle App**
+
 * http://www.sleepcycle.com/
 
 **Sleepcycle data export**
@@ -19,7 +21,7 @@ re-export the CSV file without empty rows.
 Extractor](http://supercrazyawesome.com/) from
 com.lexwarelabs.goodmorning
 
-*Sleepcycle data cleaning*
+**Sleepcycle data cleaning**
 
 Curve Cleaning & Analysis using R language
 * http://nevergonnablog.wordpress.com/2011/01/06/hacking-sleep-part-1/
