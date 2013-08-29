@@ -10,6 +10,10 @@ easy to analyse them using IPython Notebook tools.
 * Original API Sniffing exercise: http://eric-blue.com/projects/up-api/
 * Updated for latest API endpoints (Jul 2013) https://niklaslindblad.se/2013/07/jawbone-up-api-updates/
 
+**Implementations**
+* Ruby API fork (Jul 2013) https://github.com/nlindblad/jawbone-up-api
+* Perl API (Jul 2013): https://metacpan.org/release/WWW-Jawbone-Up
+
 **Sleepcycle App**
 
 * http://www.sleepcycle.com/
