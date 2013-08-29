@@ -7,7 +7,8 @@ easy to analyse them using IPython Notebook tools.
 
 **Jawbone UP export**
 
-* http://eric-blue.com/projects/up-api/
+* Original API Sniffing exercise: http://eric-blue.com/projects/up-api/
+* Updated for latest API endpoints (Jul 2013) https://niklaslindblad.se/2013/07/jawbone-up-api-updates/
 
 **Sleepcycle App**
 
